@@ -1,0 +1,21 @@
+{
+    "capk-version": "1",
+    "apklist": [
+        {
+            "name": "termux:api",
+            "version": "0.50.1",
+            "framework": "arm64-v8a",
+            "lang": "English",
+            "desc": "Termux 插件",
+            "url": "https://raw.githubusercontent.com/toad114514/capk-resource/main/termux:api.apk"
+        },
+        {
+            "name": "X浏览器",
+            "version": "4.3.2",
+            "framework": "arm64-v8a",
+            "lang": "Chinese",
+            "desc": "简单的浏览器",
+            "url": "https://raw.githubusercontent.com/toad114514/capk-resource/main/xbowser"
+        },
+    ]
+}
